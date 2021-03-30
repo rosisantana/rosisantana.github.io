@@ -1,0 +1,48 @@
+header{
+    display: flex;
+    justify-content: space-between;    
+    background-color: #FFF;
+    border-bottom: 8px solid rgb(224, 224, 224);
+    padding: 0px 20px;
+    align-items: center;
+    
+}
+.profile {
+    width: 70px;
+    
+}
+
+nav{
+    text-align: right;
+    margin: 30px;
+}
+
+nav a{
+    color: rgb(29, 29, 29);
+    font-size: 18px;
+    text-decoration: none;
+    font-family: "Open Sans", Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    margin-right: 20px;
+    
+}
+
+nav a:hover{    
+    color: rgb(42, 44, 138);
+}
+
+#download-button{    
+    display: inline-block;
+    padding: 10px;
+    background-color: rgb(128, 130, 233);
+    border-radius: 20px;
+    margin-right: 0;
+    font-weight: 400;
+    transition: transform 100ms linear;
+}
+
+#download-button:hover{
+    transform: scale(1.08);
+    background-color: rgb(42, 44, 138);
+    color: #FFF;
+}
