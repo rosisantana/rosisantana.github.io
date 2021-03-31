@@ -62,18 +62,8 @@ nav a:hover{
     right: 15%;
 }
 
-#banner-btn h1, h2{      
-    text-align: center;    
-    font-size: 2em;
-    font-weight: 600;
-    color: #FFF;   
-    margin-bottom: 20px;
-    
-}
 
-#banner-btn h2{
-    margin-bottom: 100px;
-}
+
 .btn{      
     background-color:rgb(128, 130, 233);
     border-radius: 20px;
