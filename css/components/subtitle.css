@@ -2,5 +2,11 @@
     font-family: "Recursive", sans-serif;
     font-size: 40px;
     font-weight: 600;
-    color: #fff;
+    color: #FFF;
+}
+
+.subtitle.-second{
+    color: #000;
+    padding: 30px 0;
+    text-align: center;
 }
