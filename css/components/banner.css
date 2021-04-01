@@ -1,0 +1,27 @@
+.banner{
+    box-sizing: border-box;
+    background-image: url(../../assets/img/menu4.jpg);
+    background-repeat: no-repeat;
+    height: 800px;
+    background-size: 100%;
+    border-bottom: 8px solid rgb(224, 224, 224);   
+    padding-top: 15%;
+    padding-left:90px;
+    
+}
+
+.banner .wrapper{
+    display: flex; 
+    flex-direction: column;
+    width: 640px;
+}
+
+.banner .box{
+    margin-bottom: 40px;
+}
+
+.banner .navigation{
+    display: flex;
+    justify-content: space-evenly; 
+}
+
