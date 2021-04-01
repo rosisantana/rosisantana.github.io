@@ -1,0 +1,17 @@
+.header{
+    display: flex;
+    justify-content: space-between;    
+    background-color: #FFF;
+    border-bottom: 8px solid rgb(224, 224, 224);
+    padding: 0px 20px;
+}
+
+.header .profile {
+    width: 70px;
+    margin-left: 20px;
+}
+
+.header .navigation{
+    text-align: right;
+    margin: 20px;
+}
